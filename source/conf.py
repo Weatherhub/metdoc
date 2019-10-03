@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'MET'
+project = u'MET模式评估工具库'
 copyright = u'2016–2019, 北京朗润知天科技有限公司'
 author = u'Xin Zhang'
 
