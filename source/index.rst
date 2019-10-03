@@ -10,9 +10,9 @@ Welcome to MET's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   setup
    background
    technique
+   setup
    quickstart
    installation
    prepareobs
