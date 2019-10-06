@@ -141,8 +141,14 @@ Up the Metviewer service
     http://localhost:8080/metviewer/metviewer1.jsp
 
     you will see the metviewer screen:
-    
+
     .. figure:: images/metviewer_screen.png
-       :scale: 70%
+       :scale: 40%
        :align: center
    
+Turn off the Metviewer service
+===============================
+
+.. code:: bash
+
+    $ docker-compose down
