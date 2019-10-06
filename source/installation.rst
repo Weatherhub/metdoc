@@ -38,7 +38,7 @@ Enter into MET8.1 Charliecloud container
 
 * activate and test::
 
-    $ ch-tar2dir met81.tar.gz .
+    $ ch-tar2dir met81-charliecloud.tar.gz .
     $ ch-run met81 -- bash
     $ cd
     $ point_stat 
@@ -78,7 +78,7 @@ Load Metviewer Docker container
 
 * activate and test::
 
-    $ docker image load -i metviewer.tar.gz 
+    $ docker image load -i metviewer-docker.tar.gz 
     877b494a9f30: Loading layer [==================================================>]  209.6MB/209.6MB
     97f2f5802dcb: Loading layer [==================================================>]  217.9MB/217.9MB
     cd1fe069da7a: Loading layer [==================================================>]  969.8MB/969.8MB
