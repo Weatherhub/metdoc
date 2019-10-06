@@ -152,3 +152,8 @@ Turn off the Metviewer service
 .. code:: bash
 
     $ docker-compose down
+    Stopping metviewer_1 ... done
+    Stopping mysql_mv    ... done
+    Removing metviewer_1 ... done
+    Removing mysql_mv    ... done
+
