@@ -11,17 +11,30 @@ To build the *Docker* container, Docker need to be installed:
 
 * please refer to `Docker Homepage <https://www.sylabs.io/>`_
 
+Installing Docker Compose
+==========================
 
-Installing Singularity
-======================
+To build the *Docker Compose*:
 
-The whole system requires to be run with *Singularity*. To install Singualrity:
-
-* please refer to `Singularity Homepage <https://www.sylabs.io/>`_
+* please refer to `Docker compose Homepage <https://docs.docker.com/compose/install/>`_
 
 
-Building LANGRUN MET Docker image
-=================================
+Installing Charliecloud
+=========================
+
+The whole system requires to be run with *Charliecloud*. To install Charliecloud:
+
+* please refer to `Charliecloud Homepage <https://hpc.github.io/charliecloud/index.html>`_
+
+
+Obtain MET8.1 Charliecloud container
+====================================
+
+* please ask for MET8.1 Charliecloud container from provioder (Longrun weather)
+
+
+Enter into MET8.1 Charliecloud container
+=========================================
 
 * Check out the MET configuration package::
 
