@@ -1,11 +1,5 @@
 ==========================
-Prepare Forecast data
+预报产品的准备
 ==========================
 
-.. contents ::
-
-The forecast data has to be converted to grib format, which is required by MET package.
-For WRF users, to prepare the grib format forecast data, UPP is used to convert netCDF 
-date to grib format.
-
-To convert client's forecast data to grib format, please refer to .
+我们利用快速更新循环同化系统的后处理程序来将 `NetCDF` 格式的预报产品转换成 `Grib2` 格式，请参考 `Rapdoc Documentation <https://rapdoc.readthedocs.io/en/latest/#>`_
